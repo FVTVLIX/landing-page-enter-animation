@@ -6,7 +6,7 @@ _This is displaying a simple landing page transition. This is utilizing the GSAP
 
 ## Image 
 
-![]()
+![](landing.gif)
 
 ## Font
 
